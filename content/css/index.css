@@ -1,0 +1,52 @@
+body{
+    background-image: linear-gradient(to right, violet, indigo);
+}
+h2{
+    text-align: center;
+    color: aliceblue;
+}
+div{
+    background-color: black;
+    padding: 30px;
+    margin:50px;
+    border-radius: 15px;
+}
+label{
+    color: azure;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+  input[type=text]
+  ,input[type=password]
+  {
+        display:inline-block;
+        height:40px;
+        width: 100%;
+        margin: 2px 0 20px 0;
+        border: none;
+        background: #f1f1f1;
+        }
+        button{
+            background-color:violet;
+            color:white;
+            padding: 15px 10px;
+            border: none;  
+            width: 30%;   
+        }
+        table,tr,th,td{
+            border-collapse: collapse;
+            width:100%;
+            padding: 10px;
+            margin: 2px 0 20px 0;
+            border:1px solid black;
+        }
+        td{
+            background: #f1f1f1;
+            text-align: center;
+        }
+        
+@media screen and (min-width: 320px) {
+    
+  }
